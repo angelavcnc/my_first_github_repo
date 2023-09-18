@@ -1,4 +1,7 @@
-Name: Angela C. Vicencio
-Course - Year & Block: BSIT 3-1 
-Age: 21
-Hobby: Reading manhwa & playing games
+### Name: Angela C. Vicencio
+___
+### Course - Year & Block: BSIT 3-1
+___
+### Age: 21
+___
+### Hobby: Reading Manhwa & Playing games
